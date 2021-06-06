@@ -1,0 +1,12 @@
+*{
+    border : solid
+    
+}
+
+background-color : red
+
+.origami{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
